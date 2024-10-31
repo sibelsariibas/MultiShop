@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R+LJl35k25ul4ZX+UG12bxf6WSQVXHTJvGM3whtIIsUrNStE022Vev26Lx7ukR9KW5KMTuhHUcRjHJKdKAhldQ==",
+  "dgSpecHash": "BszLwGfQz4tfRpOn4SzN4eOed+GDlMD+aSQnEaxPqOdHfUB9cBMrtzkmeuoYbQ7dZvSTwmoUxWSvqHP6eoswmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sibel.saribas\\source\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj",
+  "projectFilePath": "C:\\Users\\sibel.saribas\\Desktop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sibel.saribas\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
     "C:\\Users\\sibel.saribas\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

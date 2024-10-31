@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sibel.saribas\\source\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj": {}
+    "C:\\Users\\sibel.saribas\\Desktop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sibel.saribas\\source\\MultiShop\\Services\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj": {
+    "C:\\Users\\sibel.saribas\\Desktop\\MultiShop\\Services\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sibel.saribas\\source\\MultiShop\\Services\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\sibel.saribas\\Desktop\\MultiShop\\Services\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj",
         "projectName": "MultiShop.Order.Domain",
-        "projectPath": "C:\\Users\\sibel.saribas\\source\\MultiShop\\Services\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj",
+        "projectPath": "C:\\Users\\sibel.saribas\\Desktop\\MultiShop\\Services\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj",
         "packagesPath": "C:\\Users\\sibel.saribas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sibel.saribas\\source\\MultiShop\\Services\\Core\\MultiShop.Order.Domain\\obj\\",
+        "outputPath": "C:\\Users\\sibel.saribas\\Desktop\\MultiShop\\Services\\Core\\MultiShop.Order.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\sibel.saribas\\source\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj": {
+    "C:\\Users\\sibel.saribas\\Desktop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sibel.saribas\\source\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj",
+        "projectUniqueName": "C:\\Users\\sibel.saribas\\Desktop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj",
         "projectName": "MultiShop.Order.Application",
-        "projectPath": "C:\\Users\\sibel.saribas\\source\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj",
+        "projectPath": "C:\\Users\\sibel.saribas\\Desktop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\MultiShop.Order.Application.csproj",
         "packagesPath": "C:\\Users\\sibel.saribas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sibel.saribas\\source\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\obj\\",
+        "outputPath": "C:\\Users\\sibel.saribas\\Desktop\\MultiShop\\Services\\Order\\Core\\MultiShop.Order.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -89,8 +89,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\sibel.saribas\\source\\MultiShop\\Services\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj": {
-                "projectPath": "C:\\Users\\sibel.saribas\\source\\MultiShop\\Services\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj"
+              "C:\\Users\\sibel.saribas\\Desktop\\MultiShop\\Services\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj": {
+                "projectPath": "C:\\Users\\sibel.saribas\\Desktop\\MultiShop\\Services\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj"
               }
             }
           }

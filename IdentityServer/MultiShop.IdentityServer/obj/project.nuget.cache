@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+wU/lwzUdWV7biqYjqo9aljCgx0V2WuaG1Q3NU7uUJvZAAlI1IJpe30p1ZfnYY6ARFfPxuuj0h0n82x9z9T4Bg==",
+  "dgSpecHash": "QQe6Z/kUemv6sGT1htNUUUBsoQLSCmlKqaJ8YIs3OMz6cZz/i6yZFTa0em1vqmb3udjPVnNmz3memaJuS4So4Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sibel.saribas\\source\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
+  "projectFilePath": "C:\\Users\\sibel.saribas\\Desktop\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sibel.saribas\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
     "C:\\Users\\sibel.saribas\\.nuget\\packages\\identityserver4\\4.0.0\\identityserver4.4.0.0.nupkg.sha512",

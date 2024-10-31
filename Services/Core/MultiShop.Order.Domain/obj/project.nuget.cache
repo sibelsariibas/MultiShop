@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LAYbZtKDiS6DiJyuFGoqUjqnXqO68G/Fmx0WSyF0+Y1dWABIFyZJ489fJBC00njNU9NyDZqQhaNnKxPK+2NQKQ==",
+  "dgSpecHash": "sTDQNHYRsvvUm2ERZfZs7TcpvJSFVbLUXnf5Fv/gov2X6tp71NfCKlryNd+G3sOZIdVzSO7E0sATv2zt1eTrMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sibel.saribas\\source\\MultiShop\\Services\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj",
+  "projectFilePath": "C:\\Users\\sibel.saribas\\Desktop\\MultiShop\\Services\\Core\\MultiShop.Order.Domain\\MultiShop.Order.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

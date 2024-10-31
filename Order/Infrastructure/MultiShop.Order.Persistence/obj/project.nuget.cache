@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hALqP+KoyeYPciClYDm0aNYpf+su5QX6O2YLpG0Nw8+Ggme2N/smusnl/d3aPzgep82mG5Hh8QvauqZWEHItqw==",
+  "dgSpecHash": "rk65ke2rwG2l/Vej0kd/mwexC3m2H7x9VDX/0uV9jQuEtvaPxocNJjlj34o5XYkzT+uVnXPAEXlQuM3i0YKRew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sibel.saribas\\source\\MultiShop\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\sibel.saribas\\Desktop\\MultiShop\\Order\\Infrastructure\\MultiShop.Order.Persistence\\MultiShop.Order.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sibel.saribas\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\sibel.saribas\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
